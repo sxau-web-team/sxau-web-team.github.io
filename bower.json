@@ -1,0 +1,31 @@
+{
+  "name": "sxau-web-team.github.io",
+  "version": "1.0.0",
+  "homepage": "http://sxau-web-team.github.io",
+  "authors": [
+    "Dubuqingfeng"
+  ],
+  "description": "Website Nav.",
+  "keywords": [
+    "platform",
+    "theme"
+  ],
+  "license": "Apache-2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "pages",
+    "index.html",
+    "/js"
+  ],
+  "main": [
+    "dist/css/login.css"
+  ],
+  "dependencies": {
+    "metro": "^3.0.15",
+    "metro-dist": "^3.0.15"
+  }
+}
